@@ -7,7 +7,6 @@ O objetivo é fornecer uma base sólida e escalável para controle de produtivid
 
 ## 📘 Sumário
 
-## 📘 Sumário
 
 1. [🎯 Objetivo e Escopo](#-objetivo-e-escopo)
 2. [🧩 Estrutura da Arquitetura](#-estrutura-da-arquitetura)
