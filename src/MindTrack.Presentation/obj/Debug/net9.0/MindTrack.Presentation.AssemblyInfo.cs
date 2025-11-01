@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MindTrack.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ede55ac8cc04bb619181b330d59ae2c9198f6d75")]
 [assembly: System.Reflection.AssemblyProductAttribute("MindTrack.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MindTrack.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
