@@ -70,21 +70,38 @@ MindTrackAPI/
 src/
  ├─ MindTrack.Domain/
  │   ├─ Entities/
+ │   │   ├─ User.cs
+ │   │   ├─ TaskItem.cs
+ │   │   └─ FocusRecord.cs
  │   └─ Enums/
+ │       ├─ TaskState.cs
+ │       └─ Priority.cs
  │
  ├─ MindTrack.Application/
  │   ├─ DTOs/
+ │   │   ├─ Users/
+ │   │   ├─ Tasks/
+ │   │   └─ FocusRecords/
  │   ├─ Interfaces/
  │   └─ Mappings/
+ │       └─ MappingProfile.cs
  │
  ├─ MindTrack.Infrastructure/
  │   ├─ Persistence/
+ │   │   └─ AppDbContext.cs
  │   ├─ Repositories/
+ │   └─ ServiceCollectionExtensions.cs
  │
  └─ MindTrack.Presentation/
      ├─ Controllers/
+     │   ├─ UsersController.cs
+     │   ├─ TasksController.cs
+     │   ├─ FocusRecordsController.cs
+     │   └─ DashboardController.cs
      ├─ Program.cs
      ├─ appsettings.json
+     └─ MindTrack.Presentation.csproj
+
 ```
 
 ---
