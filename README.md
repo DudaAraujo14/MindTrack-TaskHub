@@ -7,16 +7,18 @@ O objetivo é fornecer uma base sólida e escalável para controle de produtivid
 
 ## 📘 Sumário
 
-1. 🎯 Objetivo e Escopo
-2. 🧩 Estrutura da Arquitetura
-3. ⚙️ Tecnologias Utilizadas
-4. 🗂️ Estrutura do Projeto
-5. 🧠 Principais Entidades
-6. 🔧 Configuração e Execução
-7. 📡 Endpoints da API
-8. 🧩 DTOs e Mapeamentos
-9. 💬 Tratamento de Erros e Validações
-10. 👥 Autoria
+## 📘 Sumário
+
+1. [🎯 Objetivo e Escopo](#-objetivo-e-escopo)
+2. [🧩 Estrutura da Arquitetura](#-estrutura-da-arquitetura)
+3. [⚙️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+4. [🗂️ Estrutura do Projeto](#️-estrutura-do-projeto)
+5. [🧠 Principais Entidades](#-principais-entidades)
+6. [🔧 Configuração e Execução](#-configuração-e-execução)
+7. [📡 Endpoints da API](#-endpoints-da-api)
+8. [💬 Tratamento de Erros e Validações](#-tratamento-de-erros-e-validações)
+9. [👥 Autoria](#-autoria)
+
 
 ---
 
